@@ -151,3 +151,7 @@ footer {
         flex-direction: column;
     }
 }
+
+.banner2 {
+    width: 50%;
+}
